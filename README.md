@@ -16,6 +16,9 @@ This repository serves as a submission for the Intel Unnati Industrial Training 
   - [@anushkaryaa](https://github.com/anushkaryaa)
   - [@yashaswinisarangi](https://github.com/yashaswinisarangi)
 - **Institute Name**: KIIT Deemed to be University
+- **Institutional Mentor**: Mr. Ajit Kumar Pasayat
+- **Intel Mentor**: Ms. Vasudha Kumari
+- **External Mentor**: Mr. Abhishek Nandy
 
 ### Acknowledgements
 
@@ -28,5 +31,9 @@ The members of the team extend their heartfelt gratitude to several individuals 
 - **Intel Unnati Team**: For support and contributions throughout the project.
 
 Special thanks to all who contributed their time, expertise, and encouragement along the way.
+
+### Project Report
+
+A detailed Project Report is available in the `/main` directory of the repository for your reference.
 
 ---
